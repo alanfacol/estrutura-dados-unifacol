@@ -79,7 +79,7 @@ public class Atv03Main {
 			remover();
 		}
 		
-		System.out.println("Após mais 12 retiradas, não temos mais pessoas na fila");
+		System.out.println("Só é possível mais 5 retiradas da fila");
 
 	}
 
