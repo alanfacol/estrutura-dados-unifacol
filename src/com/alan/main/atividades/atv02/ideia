@@ -1,0 +1,15 @@
+Classe Pessoa
+	String nome
+	int idade
+	double percentualVaga
+
+Classe Main
+Pessoa pilhaPessoa = new Pessoa[7]
+adicionar(Pessoa pessoa)
+remover()
+primeiro()
+maiorChance()
+maiorChanceFem()
+maiorChanceMasc()
+
+As pessoas devem ser ordenadas na pilha do maior para o menor em chance de ser contratado
